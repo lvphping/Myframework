@@ -1,0 +1,9 @@
+[08-Nov-2016 23:18:52 Asia/Shanghai] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in F:\phpStudy\WWW\Myframework\Model\Model.php on line 54
+[2016-11-08 23:18:52 ::1] 
+数据库链接失败 F:\phpStudy\WWW\Myframework\Model\Model.php第 56行
+
+[08-Nov-2016 23:18:52 Asia/Shanghai] PHP Fatal error:  Call to undefined function throw_exception() in F:\phpStudy\WWW\Myframework\Common\function.php on line 38
+[2016-11-08 23:19:58 ::1] 
+数据库链接失败 F:\phpStudy\WWW\Myframework\Model\Model.php第 56行
+
+[08-Nov-2016 23:24:54 Asia/Shanghai] PHP Fatal error:  Call to undefined function Controller\Ms() in F:\phpStudy\WWW\Myframework\Controller\IndexController.php on line 6

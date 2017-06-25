@@ -1,0 +1,27 @@
+a{
+    text-decoration: none
+}
+/*跳转提示开始*/
+.parentdiv{
+    width:99%;
+    position:relative;
+}
+.tippdiv{
+    width:30%;
+    height:90px;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    background:white;
+    font-weight:bold;
+    padding-top:30px;
+    border-radius:5px;
+    text-align:center;
+    border:2px solid #ccc;
+    box-shadow: 1px 5px 4px #ccc
+}
+.tips{
+    font-weigth:bold;
+    font-size:20px;
+}
+/*跳转提示结束*/
